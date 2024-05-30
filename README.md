@@ -13,7 +13,7 @@ I prefer React & React Native for web/mobile front end but I love everything abo
 Outside of coding, you can often find me traveling, cycling, or running.
 
 - 📫 How to reach me: [bariskayikci1@gmail.com](mailto:bariskayikci1@gmail.com)
-- 💼 [LinkedIn]((https://www.linkedin.com/in/bariskayikcipdw/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/bariskayikcipdw/)
 - 🌐 [Portfolio](bariskayikci.netlify.app)
 
 ### My Recent Spotify Activity
