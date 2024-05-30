@@ -7,6 +7,8 @@ With two years of professional experience under my belt, I have found myself dra
 
 I prefer React & React Native for web/mobile front end but I love everything about JS!.
 
+---
+
 Outside of coding, you can often find me traveling, cycling, or running.
 
 - 📫 How to reach me: [bariskayikci1@gmail.com](mailto:bariskayikci1@gmail.com)
