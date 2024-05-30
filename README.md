@@ -11,8 +11,8 @@ Outside of coding, you can often find me on traveling,cycling or running.
 - 📫 How to reach me: bariskayikci1@gmail.com
 
 <div align="center">
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11100588272)</div>
-<!--
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11100588272" alt="Spotify Recently Played">
+</div><!--
 **AjaxUberman/AjaxUberman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
