@@ -16,8 +16,9 @@ Outside of coding, you can often find me traveling, cycling, or running.
 - 💼 [LinkedIn](https://www.linkedin.com/in/bariskayikcipdw/)
 - 🌐 [Portfolio](bariskayikci.netlify.app)
 
+### My Recent Spotify Activity
+
 <div align="center">
-    ### My Recent Spotify Activity
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=11100588272" alt="Spotify Recently Played">
 </div>
 
