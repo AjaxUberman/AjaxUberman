@@ -6,7 +6,13 @@ With two years of professional experience under my belt, I have found myself dra
 
 ### What I'm Use?
 
-I prefer React & React Native for web/mobile front end but I love everything about JS!.
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+- ![Convex](https://img.shields.io/badge/-Convex-000000?style=flat&logo=convex&logoColor=white)
+- ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat&logo=openai&logoColor=white)
+- ![Clerk](https://img.shields.io/badge/-Clerk-000000?style=flat&logo=clerk&logoColor=white)
+- ![ShadCN](https://img.shields.io/badge/-ShadCN-000000?style=flat&logo=shadcn&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
