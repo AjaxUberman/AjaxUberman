@@ -4,10 +4,13 @@ Hello! I'm **Baris Kayikci**, a Front-End Developer with a passion for crafting 
 
 With two years of professional experience under my belt, I have found myself drawn to the artistry and precision of front-end development. Now, I immerse myself in the world of code, where I blend creativity with technical expertise to bring ideas to life on the digital canvas.
 
-### What I'm Use?
+## 🛠️ Tech Stack
 
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - ![Convex](https://img.shields.io/badge/-Convex-000000?style=flat&logo=convex&logoColor=white)
 - ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat&logo=openai&logoColor=white)
 - ![Clerk](https://img.shields.io/badge/-Clerk-000000?style=flat&logo=clerk&logoColor=white)
