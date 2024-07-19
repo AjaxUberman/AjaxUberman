@@ -6,16 +6,19 @@ With two years of professional experience under my belt, I have found myself dra
 
 ## 🛠️ Tech Stack
 
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![Convex](https://img.shields.io/badge/-Convex-000000?style=flat&logo=convex&logoColor=white)
-- ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat&logo=openai&logoColor=white)
-- ![Clerk](https://img.shields.io/badge/-Clerk-000000?style=flat&logo=clerk&logoColor=white)
-- ![ShadCN](https://img.shields.io/badge/-ShadCN-000000?style=flat&logo=shadcn&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" height="40"/>
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="40"/>
+  <img src="https://img.shields.io/badge/-Convex-000000?style=flat&logo=convex&logoColor=white" alt="Convex" height="40"/>
+  <img src="https://img.shields.io/badge/-OpenAI-000000?style=flat&logo=openai&logoColor=white" alt="OpenAI" height="40"/>
+  <img src="https://img.shields.io/badge/-Clerk-000000?style=flat&logo=clerk&logoColor=white" alt="Clerk" height="40"/>
+  <img src="https://img.shields.io/badge/-ShadCN-000000?style=flat&logo=shadcn&logoColor=white" alt="ShadCN" height="40"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="40"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="40"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="40"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="40"/>
+</p>
+
 
 ---
 
